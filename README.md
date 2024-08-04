@@ -20,4 +20,4 @@ Here are some of my notable contributions:
 - **Carefree:**
   - Contributions focused on enhancing functionality and resolving issues.
 
-[View all contributions here](https://gist.github.com/your-username/unique-id) (replace with your actual link)
+
